@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "image": "placeholdercard.png",
+    "clicked": false
+  },
+  {
+    "id": 1,
+    "image": "placeholdercard.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "placeholdercard.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "placeholdercard.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "placeholdercard.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "placeholdercard.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "placeholdercard.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "placeholdercard.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "placeholdercard.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "placeholdercard.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "placeholdercard.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "placeholdercard.png",
+    "clicked": false
+  }
+]

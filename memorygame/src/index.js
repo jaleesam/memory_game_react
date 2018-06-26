@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import registerServiceWorker from './registerServiceWorker';
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+
 
 /* Memory Game Homework Psudo-code:
 Gameboard loads with 12 different game squares
